@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\bin\Debug\T5-Names.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\bin\Debug\T5-Names.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\bin\Debug\T5-Names.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\obj\Debug\T05-Names.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\obj\Debug\T05-Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\obj\Debug\T05-Names.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\obj\Debug\T5-Names.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T05-Names\obj\Debug\T5-Names.pdb

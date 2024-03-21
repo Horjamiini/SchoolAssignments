@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\bin\Debug\T26-SMLeague.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\bin\Debug\T26-SMLeague.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\bin\Debug\T26-SMLeague.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\obj\Debug\T26-SMLeague.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\obj\Debug\T26-SMLeague.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\obj\Debug\T26-SMLeague.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\obj\Debug\T26-SMLeague.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T26-SMLeague\obj\Debug\T26-SMLeague.pdb

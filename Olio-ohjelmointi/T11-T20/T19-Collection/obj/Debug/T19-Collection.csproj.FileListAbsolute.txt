@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\bin\Debug\T19-Collection.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\bin\Debug\T19-Collection.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\bin\Debug\T19-Collection.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\obj\Debug\T19-Collection.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\obj\Debug\T19-Collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\obj\Debug\T19-Collection.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\obj\Debug\T19-Collection.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T19-Collection\obj\Debug\T19-Collection.pdb

@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\bin\Debug\T03 - Consumption.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\bin\Debug\T03 - Consumption.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\bin\Debug\T03 - Consumption.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\obj\Debug\T03 - Consumption.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\obj\Debug\T03 - Consumption.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\obj\Debug\T03 - Consumption.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\obj\Debug\T03 - Consumption.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T03 - Consumption\obj\Debug\T03 - Consumption.pdb

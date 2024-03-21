@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\bin\Debug\T06-Sauna_Heater.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\bin\Debug\T06-Sauna_Heater.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\bin\Debug\T06-Sauna_Heater.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\obj\Debug\T06-Sauna_Heater.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\obj\Debug\T06-Sauna_Heater.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\obj\Debug\T06-Sauna_Heater.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\obj\Debug\T06-Sauna_Heater.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T06-Sauna_Heater\obj\Debug\T06-Sauna_Heater.pdb

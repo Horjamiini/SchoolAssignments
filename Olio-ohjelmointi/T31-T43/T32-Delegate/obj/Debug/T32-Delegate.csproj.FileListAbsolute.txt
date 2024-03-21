@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\bin\Debug\T32-Delegate.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\bin\Debug\T32-Delegate.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\bin\Debug\T32-Delegate.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\obj\Debug\T32-Delegate.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\obj\Debug\T32-Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\obj\Debug\T32-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\obj\Debug\T32-Delegate.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T32-Delegate\obj\Debug\T32-Delegate.pdb

@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\bin\Debug\T37-Dice.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\bin\Debug\T37-Dice.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\bin\Debug\T37-Dice.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\obj\Debug\T37-Dice.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\obj\Debug\T37-Dice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\obj\Debug\T37-Dice.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\obj\Debug\T37-Dice.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T37-Dice\obj\Debug\T37-Dice.pdb

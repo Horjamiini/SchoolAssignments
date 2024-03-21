@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\bin\Debug\T07-WashingMachine.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\bin\Debug\T07-WashingMachine.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\bin\Debug\T07-WashingMachine.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\obj\Debug\T07-WashingMachine.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\obj\Debug\T07-WashingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\obj\Debug\T07-WashingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\obj\Debug\T07-WashingMachine.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T07-WashingMachine\obj\Debug\T07-WashingMachine.pdb

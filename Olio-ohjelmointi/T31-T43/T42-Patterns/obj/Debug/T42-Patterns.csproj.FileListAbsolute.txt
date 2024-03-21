@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\bin\Debug\T42-Patterns.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\bin\Debug\T42-Patterns.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\bin\Debug\T42-Patterns.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\obj\Debug\T42-Patterns.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\obj\Debug\T42-Patterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\obj\Debug\T42-Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\obj\Debug\T42-Patterns.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T42-Patterns\obj\Debug\T42-Patterns.pdb

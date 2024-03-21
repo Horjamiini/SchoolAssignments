@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\bin\Debug\T23-Queue.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\bin\Debug\T23-Queue.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\bin\Debug\T23-Queue.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\obj\Debug\T23-Queue.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\obj\Debug\T23-Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\obj\Debug\T23-Queue.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\obj\Debug\T23-Queue.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T23-Queue\obj\Debug\T23-Queue.pdb

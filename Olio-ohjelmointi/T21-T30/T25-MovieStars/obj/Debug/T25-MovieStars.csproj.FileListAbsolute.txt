@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\bin\Debug\T25-MovieStars.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\bin\Debug\T25-MovieStars.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\bin\Debug\T25-MovieStars.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\obj\Debug\T25-MovieStars.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\obj\Debug\T25-MovieStars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\obj\Debug\T25-MovieStars.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\obj\Debug\T25-MovieStars.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T25-MovieStars\obj\Debug\T25-MovieStars.pdb

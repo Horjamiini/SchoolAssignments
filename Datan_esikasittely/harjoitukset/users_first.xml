@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+	<record type="customer">
+		<name>Morgan Sykes</name>
+		<phone>1-183-546-6564</phone>
+		<email>lorem.auctor@vulputatemauris.net</email>
+        <address>
+            <streetaddress>2594 Tellus St.</streetaddress>
+            <country>Russian Federation</country>
+            <postalZip>584585</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Zia Stafford</name>
+		<phone>(621) 483-5714</phone>
+		<email>ornare.fusce@felisdonec.co.uk</email>
+        <address>
+            <streetaddress>Ap #419-5905 Nibh Rd.</streetaddress>
+            <country>Netherlands</country>
+            <postalZip>7308</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Cooper Ramirez</name>
+		<phone>(716) 895-3353</phone>
+		<email>suspendisse@consectetueradipiscingelit.edu</email>
+		<address>
+            <streetaddress>667-4582 Mollis Ave</streetaddress>
+            <country>India</country>
+            <postalZip>43714</postalZip>
+        </address>
+	</record>
+	<record type="customer">
+		<name>Richard Armstrong</name>
+		<phone>(450) 317-2624</phone>
+		<email>lacinia.mattis@urna.org</email>
+        <address>
+            <streetaddress>Ap #120-495 Ut, Road</streetaddress>
+            <country>Russian Federation</country>
+            <postalZip>53415</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Flavia Delaney</name>
+		<phone></phone>
+		<email>rutrum.lorem.ac@inmagna.org</email>
+        <address>
+            <streetaddress>870-3073 Et, Av.</streetaddress>
+            <country>Austria</country>
+            <postalZip>03247</postalZip>
+        </address>
+	</record>
+	<record type="customer">
+		<name>Branden Henderson</name>
+		<phone>1-314-584-1088</phone>
+		<email>iaculis@felisnullatempor.ca</email>
+        <address>
+            <streetaddress>P.O. Box 961, 9477 Gravida Avenue</streetaddress>
+            <country>Pakistan</country>
+            <postalZip>50217</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Hector Kirkland</name>
+		<phone>(325) 535-9750</phone>
+		<email>elit@orcilacus.org</email>
+        <address>
+            <streetaddress>541-4061 Ultricies Ave</streetaddress>
+            <country>United Kingdom</country>
+            <postalZip>3865</postalZip>
+        </address>
+	</record>
+	<record type="customer">
+		<name>Luke Hooper</name>
+		<phone></phone>
+		<email>vitae.sodales@vitaesodales.ca</email>
+        <address>
+            <streetaddress>Ap #385-5179 Luctus, Road</streetaddress>
+            <country>Germany</country>
+            <postalZip>3660</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Moses Dejesus</name>
+		<phone>1-337-767-2455</phone>
+		<email>pede@donecdignissim.org</email>
+        <address>
+            <streetaddress>Ap #639-9807 Phasellus St.</streetaddress>
+            <country>Germany</country>
+            <postalZip>903866</postalZip>
+        </address>
+	</record>
+	<record type="customer">
+		<name>Finn Pena</name>
+		<phone>1-746-189-1226</phone>
+		<email>et.euismod.et@ac.ca</email>
+        <address>
+            <streetaddress>Ap #668-4837 Nec Road</streetaddress>
+            <country>Netherlands</country>
+            <postalZip>32910</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Lester Espinoza</name>
+		<phone>1-378-721-6318</phone>
+		<email>vel.nisl.quisque@ad.org</email>
+        <address>
+            <streetaddress>4395 Elit, St.</streetaddress>
+            <country>Chile</country>
+            <postalZip>07740-64584</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Nelle Stafford</name>
+		<phone>1-246-844-4648</phone>
+		<email>ligula@posuere.com</email>
+        <address>
+            <streetaddress>Ap #640-4104 Maecenas St.</streetaddress>
+            <country>Chile</country>
+            <postalZip>800308</postalZip>
+        </address>
+	</record>
+	<record type="customer">
+		<name>Amber Casey</name>
+		<phone></phone>
+		<email>diam@nequeetnunc.com</email>
+        <address>
+            <streetaddress>Ap #944-5570 Nunc. Rd.</streetaddress>
+            <country>Pakistan</country>
+            <postalZip>154758</postalZip>
+        </address>
+	</record>
+	<record type="customer">
+		<name>Jordan Strong</name>
+		<phone>1-188-391-2011</phone>
+		<email>tincidunt@quamcurabitur.net</email>
+		<address>
+            <streetaddress>Ap #426-2862 Lectus Rd.</streetaddress>
+            <country>United States</country>
+            <postalZip>37144455</postalZip>
+        </address>
+	</record>
+	<record type="employee">
+		<name>Elton Mcpherson</name>
+		<phone>1-733-172-5377</phone>
+		<email>praesent@tempuseu.co.uk</email>
+        <address>
+            <streetaddress>110-7294 Tempus Road</streetaddress>
+            <country>Belgium</country>
+            <postalZip>89525</postalZip>
+        </address>
+	</record>
+</records>

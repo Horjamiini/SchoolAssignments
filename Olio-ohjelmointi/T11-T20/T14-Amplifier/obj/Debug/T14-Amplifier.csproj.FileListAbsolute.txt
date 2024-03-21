@@ -1,0 +1,16 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\bin\Debug\T14-Amplifier.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\bin\Debug\T14-Amplifier.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\bin\Debug\T14-Amplifier.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\obj\Debug\T14-Amplifier.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\obj\Debug\T14-Amplifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\obj\Debug\T14-Amplifier.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\obj\Debug\T14-Amplifier.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T14-Amplifier\obj\Debug\T14-Amplifier.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\bin\Debug\T14-Amplifier.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\bin\Debug\T14-Amplifier.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\bin\Debug\T14-Amplifier.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\obj\Debug\T14-Amplifier.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\obj\Debug\T14-Amplifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\obj\Debug\T14-Amplifier.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\obj\Debug\T14-Amplifier.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T14-Amplifier\obj\Debug\T14-Amplifier.pdb

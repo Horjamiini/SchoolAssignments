@@ -1,0 +1,18 @@
+<computers>
+  <computer name="localhost" OSName="Microsoft Windows 10 Pro" OSArchitecture="64-bit" OSLanguage="en-US" OSVersion="2009" OSBuild="10.0.19045">
+    <disks>
+      <disk>C:</disk>
+      <disk>D:</disk>
+      <disk>E:</disk>
+      <disk>F:</disk>
+    </disks>
+  </computer>
+  <computer name="testhost" OSName="" OSArchitecture="" OSLanguage="" OSVersion="" OSBuild="">
+    <disks>
+      <disk>C:</disk>
+      <disk>D:</disk>
+      <disk>E:</disk>
+      <disk>F:</disk>
+    </disks>
+  </computer>
+</computers>

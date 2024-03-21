@@ -1,0 +1,16 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\bin\Debug\T34-UnitTestForArrayCalculator.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\bin\Debug\T34-UnitTestForArrayCalculator.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\bin\Debug\T34-UnitTestForArrayCalculator.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\bin\Debug\T34-UnitTestForArrayCalculator.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\bin\Debug\T34-UnitTestForArrayCalculator.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\bin\Debug\T34-UnitTestForArrayCalculator.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T34-UnitTestForArrayCalculator\T34-ArrayCalculator\obj\Debug\T34-UnitTestForArrayCalculator.pdb

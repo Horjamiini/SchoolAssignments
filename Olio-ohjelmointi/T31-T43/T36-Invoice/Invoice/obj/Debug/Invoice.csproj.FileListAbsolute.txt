@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\bin\Debug\Invoice.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\obj\Debug\Invoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\obj\Debug\Invoice.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T35-UnitTestForShoppingCart\Invoice\obj\Debug\Invoice.pdb

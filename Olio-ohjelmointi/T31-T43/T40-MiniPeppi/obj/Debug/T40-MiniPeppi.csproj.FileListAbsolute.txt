@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\obj\Debug\T40-MiniPeppi.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\obj\Debug\T40-MiniPeppi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\obj\Debug\T40-MiniPeppi.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\bin\Debug\T40-MiniPeppi.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\bin\Debug\T40-MiniPeppi.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\bin\Debug\T40-MiniPeppi.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\obj\Debug\T40-MiniPeppi.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T40-MiniPeppi\obj\Debug\T40-MiniPeppi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\bin\Debug\T30-Interface.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\bin\Debug\T30-Interface.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\bin\Debug\T30-Interface.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\obj\Debug\T30-Interface.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\obj\Debug\T30-Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\obj\Debug\T30-Interface.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\obj\Debug\T30-Interface.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T21-T30\T30-Interface\obj\Debug\T30-Interface.pdb

@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\bin\Debug\T33-MailBookWithLambda.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\bin\Debug\T33-MailBookWithLambda.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\bin\Debug\T33-MailBookWithLambda.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\obj\Debug\T33-MailBookWithLambda.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\obj\Debug\T33-MailBookWithLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\obj\Debug\T33-MailBookWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\obj\Debug\T33-MailBookWithLambda.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T31-T43\T33-MailBookWithLambda\obj\Debug\T33-MailBookWithLambda.pdb

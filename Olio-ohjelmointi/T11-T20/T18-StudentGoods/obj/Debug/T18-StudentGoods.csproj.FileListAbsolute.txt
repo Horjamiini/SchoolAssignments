@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\bin\Debug\T18-StudentGoods.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\bin\Debug\T18-StudentGoods.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\bin\Debug\T18-StudentGoods.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\obj\Debug\T18-StudentGoods.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\obj\Debug\T18-StudentGoods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\obj\Debug\T18-StudentGoods.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\obj\Debug\T18-StudentGoods.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T18-StudentGoods\obj\Debug\T18-StudentGoods.pdb

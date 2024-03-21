@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\obj\Debug\T02 - Hill_Jumping.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\obj\Debug\T02 - Hill_Jumping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\obj\Debug\T02 - Hill_Jumping.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\bin\Debug\T02 - Hill_Jumping.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\bin\Debug\T02 - Hill_Jumping.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\bin\Debug\T02 - Hill_Jumping.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\obj\Debug\T02 - Hill_Jumping.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\ttc8440\T02 - Hill_Jumping\obj\Debug\T02 - Hill_Jumping.pdb

@@ -1,0 +1,3 @@
+SFS document:
+
+https://gitlab.labranet.jamk.fi/AA3209/ttc8860_project/-/blob/main/SRS.md

@@ -1,0 +1,8 @@
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\bin\Debug\T29-Refrigarator.exe.config
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\bin\Debug\T29-Refrigarator.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\bin\Debug\T29-Refrigarator.pdb
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\obj\Debug\T29-Refrigarator.csproj.AssemblyReference.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\obj\Debug\T29-Refrigarator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\obj\Debug\T29-Refrigarator.csproj.CoreCompileInputs.cache
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\obj\Debug\T29-Refrigarator.exe
+C:\Users\Horjamayn\OneDrive - JAMK\Olio-ohjelmointi\TuntiHarj\T29-Refrigarator\obj\Debug\T29-Refrigarator.pdb
