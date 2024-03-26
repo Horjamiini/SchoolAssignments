@@ -1,0 +1,72 @@
+[
+      {
+        "artist": "Toto",
+        "title": "Toto IV",
+        "year": 1982,
+        "genre": "Pop",
+        "tracks": 10
+      },
+      {
+        "artist": "Steely Dan",
+        "title": "Aja",
+        "year": 1977,
+        "genre": "Jazz Rock",
+        "tracks": 7
+      },
+      {
+        "artist": "Miles Davis",
+        "title": "Kind of Blue",
+        "year": 1959,
+        "genre": "Jazz",
+        "tracks": 5
+      },
+      {
+        "artist": "Ex-Tuuttiz",
+        "title": "Kaikki ketkä diggaa...",
+        "year": 2020,
+        "genre": "Rap",
+        "tracks": 13
+      },
+      {
+        "artist": "Ex-Tuuttiz",
+        "title": "Kromihammas",
+        "year": 2016,
+        "genre": "Rap",
+        "tracks": 16
+      },
+      {
+        "artist": "White Snake",
+        "title": "Ready an Willing",
+        "year": 1980,
+        "genre": "Rock",
+        "tracks": 9
+      },
+      {
+        "artist": "Kirka",
+        "title": "R.O.C.K",
+        "year": 1998,
+        "genre": "Rock",
+        "tracks": 10
+      },
+      {
+        "artist": "Silk Sonic",
+        "title": "An Evening With Silk Sonic",
+        "year": 2021,
+        "genre": "R&B",
+        "tracks": 10
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Unorthodox jukebox",
+        "year": 2012,
+        "genre": "Pop",
+        "tracks": 10
+      },
+      {
+        "artist": "Karri Koira",
+        "title": "K.O.I.R.A",
+        "year": 2012,
+        "genre": "Pop",
+        "tracks": 12
+      }
+]

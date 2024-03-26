@@ -1,0 +1,30 @@
+### GET
+GET http://localhost:5001/api/albums
+
+### GET
+GET http://localhost:5001/api/albums/6505c1088a57aa22c4c3760b
+
+### POST
+POST http://localhost:5001/api/albums?search=user
+Content-Type: application/json
+
+{
+    "artist": "Ex-Tuuttiz",
+    "title": "Kromihammas",
+    "year": 2016,
+    "genre": "Rap",
+    "tracks": 11
+}
+
+### PUT
+PUT http://localhost:5001/api/albums/6509b346a7eeda6319f01952
+Content-Type: application/json
+
+{
+    "year": 2015,
+    "genre": "Rock",
+    "tracks": 15 
+}
+
+### DELETE
+DELETE http://localhost:5001/api/albums/6509b346a7eeda6319f01952

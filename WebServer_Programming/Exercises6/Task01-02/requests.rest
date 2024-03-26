@@ -1,0 +1,36 @@
+### GET sort test
+GET http://localhost:5001/api/albums?sort=title
+
+
+### GET numericfilter test
+GET http://localhost:5001/api/albums?numericFilters=year>2012
+
+
+### GET fields test
+GET http://localhost:5001/api/albums?fields=artist,title
+
+### GET regex test
+GET http://localhost:5001/api/albums?artist=ex
+
+
+
+### GET not found Error test
+GET http://localhost:5001/api/alnum
+
+### GET Error test on APIError
+GET http://localhost:5001/api/albums/6513dd4922b41334d45bec2
+
+### GET Users
+GET http://localhost:5001/api/register/
+
+### POST register
+POST http://localhost:5001/api/register
+Content-Type: application/json
+
+{
+    "name": "new user",
+    "email": "kayttaja@luukku.fi",
+    "password": "salaisuus",
+    "pwdconfig": "salaisuus"
+}
+

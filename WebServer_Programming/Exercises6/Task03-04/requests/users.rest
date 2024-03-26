@@ -1,0 +1,26 @@
+### GET Users
+GET http://localhost:5001/api/users
+
+### GET single user
+GET http://localhost:5001/api/users/65256fac9f50fa8bbadb2094
+
+
+### POST register user
+POST http://localhost:5001/api/users/register
+Content-Type: application/json
+
+{
+    "username": "Kayttaja",
+    "email": "kayttaja@luukku.fi",
+    "password": "salaisuus",
+    "pwdconfig": "salaisuus"
+}
+
+### Login
+POST http://localhost:5001/api/login
+Content-Type: application/json
+
+{
+    "username": "Kayttaja",
+    "password": "salaisuus"
+}

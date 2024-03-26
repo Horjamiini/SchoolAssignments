@@ -1,0 +1,43 @@
+
+@hostname = localhost
+@port = 5001
+@host = {{hostname}}:{{port}}
+@vehicle_id = 1
+@user_id = 2
+
+### Get all vehicles
+GET http://{{host}}/api/vehicles/
+
+### Create vehicle
+POST http://{{host}}/api/vehicles?user={{user_id}}
+Content-Type: application/json
+
+{
+  "type":"EV",
+  "make":"Audi",
+  "model":"A6",
+  "commissioned": true,
+  "license_plate": "AB-197"
+}
+
+### Create User
+POST http://{{host}}/api/users
+Content-Type: application/json
+
+{
+  "name":"kayttaja",
+  "username":"kayttis"
+}
+
+### Get Users
+GET http://{{host}}/api/users
+
+### Get single
+GET http://{{host}}/api/vehicles/{{vehicle_id}}
+
+### Modify
+PUT http://{{host}}/api/vehicles/{{vehicle_id}}
+
+### Delete vehicle entry
+DELETE http://{{host}}/api/vehicles/{{vehicle_id}}
+

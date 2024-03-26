@@ -1,0 +1,44 @@
+@user_id = 6548d1efcbdc0781346dd475
+
+### GET Users
+GET http://localhost:5001/api/users
+
+### Delete User
+DELETE http://localhost:5001/api/users/{{user_id}}
+
+
+
+### Register user
+POST http://localhost:5001/api/users/register
+Content-Type: application/json
+
+{
+    "username": "Testi",
+    "email": "testi@luukku.fi",
+    "password": "testi",
+    "pwdconfig": "testi",
+    "role": "user"
+}
+
+
+### Login regular User
+POST http://localhost:5001/login/password
+Content-Type: application/x-www-form-urlencoded
+
+username=Kayttaja&password=salaisuus
+
+### Login different regular user
+POST http://localhost:5001/login/password
+Content-Type: application/x-www-form-urlencoded
+
+username=User&password=secret
+
+### Login with admin user
+POST http://localhost:5001/login/password
+Content-Type: application/x-www-form-urlencoded
+
+username=AdminKayttaja&password=adminsalaisuus
+
+
+### Logout
+POST http://localhost:5001/logout

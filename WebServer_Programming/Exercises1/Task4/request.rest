@@ -1,0 +1,33 @@
+GET http://[::1]:3000/albums
+
+### Virheellinen pyyntö
+GET http://[::1]:3000/yeet
+
+### POST
+POST http://[::1]:3000/albums
+Content-Type: application/json
+
+{
+    "id": 4,
+    "artist": "Ex-Tuuttiz",
+    "title": "Kaikki keil on välii..",
+    "year": 2020,
+    "genre": "Rap",
+    "tracks": 13
+}
+
+### PUT
+PUT http://[::1]:3000/albums/4
+Content-Type: application/json
+
+{
+    "id": 4,
+    "artist": "Ex-Tuuttiz",
+    "title": "Kaikki keil on välii..",
+    "year": 2020,
+    "genre": "Rap",
+    "tracks": 20
+}
+
+### Delete
+DELETE  http://[::1]:3000/albums/4

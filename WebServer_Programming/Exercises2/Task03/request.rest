@@ -1,0 +1,33 @@
+### GET
+GET http://localhost:5001/api/albums
+
+### POST
+POST http://localhost:5001/api/albums?search=user
+Content-Type: application/json
+
+{
+    "id": 4,
+    "artist": "Ex-Tuuttiz",
+    "title": "Kaikki keil on välii digaa...",
+    "year": 2020,
+    "genre": "Rap",
+    "tracks": 13 
+}
+
+### PUT
+PUT http://localhost:5001/api/albums/2
+Content-Type: application/json
+
+{
+    
+    "year": 1890,
+    "genre": "Classical",
+    "tracks": 25
+}
+
+### DELETE
+DELETE http://localhost:5001/api/albums/3
+
+
+### QUERY
+GET http://localhost:5001/api/albums?search=user

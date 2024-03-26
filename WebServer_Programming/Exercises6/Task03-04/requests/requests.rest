@@ -1,0 +1,65 @@
+@token_user = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IktheXR0YWphIiwiaWQiOiI2NTI1NmZhYzlmNTBmYThiYmFkYjIwOTMiLCJpYXQiOjE2OTcxOTI5NDQsImV4cCI6MTY5NzE5NDc0NH0.B6UJBXC8DyKpcfCPE09AXy2D7Iy1LajOg51J_M_Gu6M
+@album_id = 652907ebf4363029fdddffe4
+
+### GET all albums
+GET http://localhost:5001/api/albums
+
+### GET one album
+GET http://localhost:5001/api/albums/{{album_id}}
+
+### GET sort 
+GET http://localhost:5001/api/albums?sort=title
+
+
+### GET numericfilter 
+GET http://localhost:5001/api/albums?numericFilters=year>2012
+
+
+### GET fields 
+GET http://localhost:5001/api/albums?fields=artist,title
+
+### GET regex 
+GET http://localhost:5001/api/albums?artist=ex
+
+### POST (should fail since no authorization token)
+POST http://localhost:5001/api/albums
+Content-Type: application/json
+
+{
+    "artist":"",
+    "title":"",
+    "year":"",
+    "genre":"",
+    "tracks":""
+
+}
+
+### POST works with token
+POST http://localhost:5001/api/albums
+Content-Type: application/json
+Authorization: Bearer {{token_user}}
+
+{
+    
+    "title": "XT",
+    "year": "2023",
+    "genre": "Rap",
+    "tracks": "15"
+
+}
+
+### PUT
+PUT http://localhost:5001/api/albums/{{album_id}}
+Content-Type: application/json
+Authorization: Bearer {{token_user}}
+
+{
+    
+    "year": "2021",
+    "genre": "Rap",
+    "tracks": "15"
+}
+
+### DELETE
+DELETE http://localhost:5001/api/albums/{{album_id}}
+Authorization: Bearer {{token_user}}
