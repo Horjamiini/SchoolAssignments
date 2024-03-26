@@ -1,0 +1,37 @@
+@album_id = 6548c93e7cbe77c441961d30
+
+
+
+### GET all albums
+GET http://localhost:5001/api/albums
+
+### GET one album
+GET http://localhost:5001/api/albums/{{album_id}}
+
+
+### POST Create album
+POST http://localhost:5001/api/albums
+Content-Type: application/json
+
+{
+    "artist": "Ex-Tuuttiz",
+    "title": "Kaikki ketkä diggaa...",
+    "year": 2020,
+    "genre": "Rap",
+    "tracks": 13
+
+}
+
+### PUT Update album
+PUT http://localhost:5001/api/albums/{{album_id}}
+Content-Type: application/json
+
+{
+    
+    "year": "2021",
+    "genre": "Rap",
+    "tracks": "15"
+}
+
+### DELETE album
+DELETE http://localhost:5001/api/albums/{{album_id}}
